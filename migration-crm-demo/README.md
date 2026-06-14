@@ -1,0 +1,18 @@
+# Migration CRM Demo
+
+## Objective
+
+To demonstrate a simple migration agency case management system.
+
+## Features
+
+- Client Management
+- Visa Tracking
+- Document Tracking
+- Follow-up Scheduling
+
+## Future Development
+
+- SQL Database
+- Power BI Dashboard
+- Automated Notifications
